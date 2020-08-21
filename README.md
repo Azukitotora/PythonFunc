@@ -1,3 +1,3 @@
-# This git is AOC's Storehouse.
+# This git is Azukitotora's Storehouse.
 
 Put the function I created at work.
